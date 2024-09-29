@@ -8,9 +8,9 @@ Submission Instructions:
 
 Submit a document containing the following
 
-[*] Scenarios (20)
-[*] User stories (20)
-[*] Feature list (10)
+Scenarios (20)
+User stories (20)
+Feature list (10)
 Create and commit a  folder, "LastName-DesSprintDay 1"  in your group Github project repo with all of the items submitted here.
 
 Note: Members of the group should work independently  on steps 1-2 above
